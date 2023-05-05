@@ -1,0 +1,7 @@
+0.7
+2020.2
+Feb 21 2023
+20:06:57
+/home/matthew/shared/NeuralNetwork/NeuralNetwork.sim/sim_1/impl/func/xsim/TDNN_TB_func_impl.v,1681073627,verilog,,,,DELAY;DELAY_0;DELAY_1;DELAY_2;NEURON;NEURON_10;NEURON_11;NEURON_12;NEURON_3;NEURON_5;NEURON_6;NEURON_7;NEURON_8;NEURON_9;NEURON_LIN;NEURON_LIN_4;Seg7;Sigmoid;Sigmoid_13;Sigmoid_14;Sigmoid_15;Sigmoid_16;Sigmoid_17;Sigmoid_18;Sigmoid_19;Sigmoid_20;Sigmoid_21;TDNN;TDNN_TOP;glbl;seg7Decode,,uvm,,,,,,
+/home/matthew/shared/NeuralNetwork/NeuralNetwork.srcs/sim_1/new/TDNN_TB.sv,1680735133,systemVerilog,,,,TDNN_TB,,uvm,,,,,,
+/home/matthew/shared/NeuralNetwork/NeuralNetwork.srcs/sources_1/imports/keras_NN/linear.sv,1680780311,systemVerilog,,/home/matthew/shared/NeuralNetwork/NeuralNetwork.srcs/sources_1/imports/keras_NN/neuron_linear.sv,,linear,,uvm,,,,,,

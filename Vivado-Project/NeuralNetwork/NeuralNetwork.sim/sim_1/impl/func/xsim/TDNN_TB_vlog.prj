@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"TDNN_TB_func_impl.v" \
+
+sv xil_defaultlib  \
+"../../../../../NeuralNetwork.srcs/sources_1/new/Sigmoid.sv" \
+"../../../../../NeuralNetwork.srcs/sources_1/imports/nn/TDNN.sv" \
+"../../../../../NeuralNetwork.srcs/sources_1/imports/nn/delay.sv" \
+"../../../../../NeuralNetwork.srcs/sources_1/imports/keras_NN/linear.sv" \
+"../../../../../NeuralNetwork.srcs/sources_1/imports/keras_NN/neuron_linear.sv" \
+"../../../../../NeuralNetwork.srcs/sources_1/imports/nn/neuron_redo.sv" \
+"../../../../../NeuralNetwork.srcs/sim_1/new/TDNN_TB.sv" \
+
+# Do not sort compile order
+nosort

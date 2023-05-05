@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Wed May  3 20:33:40 2023
+# Process ID: 424
+# Current directory: C:/Users/mwfmo/Documents/UbuntuShared/NeuralNetwork/NeuralNetwork.runs/impl_1
+# Command line: vivado.exe -log TDNN_TOP.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TDNN_TOP.tcl -notrace
+# Log file: C:/Users/mwfmo/Documents/UbuntuShared/NeuralNetwork/NeuralNetwork.runs/impl_1/TDNN_TOP.vdi
+# Journal file: C:/Users/mwfmo/Documents/UbuntuShared/NeuralNetwork/NeuralNetwork.runs/impl_1\vivado.jou
+# Running On: Matthews-Laptop, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 4, Host memory: 16971 MB
+#-----------------------------------------------------------
+source TDNN_TOP.tcl -notrace
