@@ -5,6 +5,6 @@ This repository includes all code files related to the implementation of a TDNN 
 
 This includes the following:
 -Matlab Scripts for generating training data
--Python Notebook which includes a keras TDNN model, weight and bias generator and sigmoid LUT generator
--System Verilog Files for TDNN - design and tests
+*Python Notebook which includes a keras TDNN model, weight and bias generator and sigmoid LUT generator
++System Verilog Files for TDNN - design and tests
 -Vivado Project file which includes the design and testbench
